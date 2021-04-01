@@ -1,4 +1,4 @@
-import Pokedex from "./pokedex";
+
 import Pokegame from './pokegame';
 import './App.css';
 
