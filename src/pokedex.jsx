@@ -25,7 +25,7 @@ class Pokedex extends Component{
         }
 
         return <div className="pokedex">
-            <h1 >Pokedex</h1>
+            <h1 style={{fontSize: "3rem"}} >Pokedex</h1>
             <p>Total Experience: {this.props.exp}</p>
            {title}
             <div className="pokedex-cards">
